@@ -1,0 +1,176 @@
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\FormASPNet.dll.config
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\FormASPNet.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\FormASPNet.pdb
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csc.exe
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csc.exe.config
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csc.rsp
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csi.exe
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csi.exe.config
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\csi.rsp
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.AppContext.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Console.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.IO.Compression.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.IO.Pipes.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Claims.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.ValueTuple.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XPath.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\vbc.exe
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\vbc.exe.config
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\vbc.rsp
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\VBCSCompiler.exe
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Antlr3.Runtime.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\EntityFramework.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\EntityFramework.SqlServer.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Newtonsoft.Json.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Helpers.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Mvc.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Optimization.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Razor.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.Deployment.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.Razor.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\WebGrease.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\EntityFramework.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\EntityFramework.SqlServer.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Helpers.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Mvc.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Optimization.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.Razor.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.Deployment.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Web.WebPages.Razor.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Newtonsoft.Json.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Antlr3.Runtime.pdb
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csprojAssemblyReference.cache
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.CoreCompileInputs.cache
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.CopyComplete
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.dll
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.pdb
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.InitialCreate.resources
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.GenerateResource.cache
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.UpdateModelProduct.resources
+D:\Study\LearnASP.Net\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.addUrlImage.resources
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\FormASPNet.dll.config
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\FormASPNet.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\FormASPNet.pdb
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csc.exe
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csc.exe.config
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csc.rsp
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csi.exe
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csi.exe.config
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\csi.rsp
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.AppContext.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Console.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\vbc.exe
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\vbc.exe.config
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\vbc.rsp
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Antlr3.Runtime.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\EntityFramework.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Newtonsoft.Json.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Helpers.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Mvc.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Optimization.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Razor.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\WebGrease.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\EntityFramework.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\EntityFramework.SqlServer.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Helpers.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Mvc.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Optimization.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.Razor.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Newtonsoft.Json.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Antlr3.Runtime.pdb
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.InitialCreate.resources
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.UpdateModelProduct.resources
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.Migrations.addUrlImage.resources
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.GenerateResource.Cache
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.dll
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.pdb
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.CoreCompileInputs.cache
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csproj.CopyComplete
+C:\Users\Loki Kun\Downloads\FormASPNet\FormASPNet\obj\Debug\FormASPNet.csprojAssemblyReference.cache
